@@ -30,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Math
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
