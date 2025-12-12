@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Brainteaser
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
 ## Dynamic Programming
 |  |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0010-regular-expression-matching) |
+## Simulation
+|  |
+| ------- |
+| [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 <!---LeetCode Topics End-->
