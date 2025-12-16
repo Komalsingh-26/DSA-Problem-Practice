@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0205-isomorphic-strings) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3606-coupon-code-validator) |
 ## Stack
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0205-isomorphic-strings) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3606-coupon-code-validator) |
 ## Sorting
