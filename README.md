@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3606-coupon-code-validator) |
 ## Math
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0010-regular-expression-matching) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Recursion
 |  |
 | ------- |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Depth-First Search
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 <!---LeetCode Topics End-->
