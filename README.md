@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
@@ -122,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
