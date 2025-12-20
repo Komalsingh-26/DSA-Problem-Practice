@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0796-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3606-coupon-code-validator) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
