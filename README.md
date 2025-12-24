@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2092-find-all-people-with-secret) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3606-coupon-code-validator) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
