@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2402-meeting-rooms-iii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2402-meeting-rooms-iii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
