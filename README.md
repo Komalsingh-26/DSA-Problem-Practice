@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0085-maximal-rectangle) |
 | [0238-product-of-array-except-self](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0840-magic-squares-in-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0840-magic-squares-in-grid) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
