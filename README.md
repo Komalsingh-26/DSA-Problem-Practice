@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3433-count-mentions-per-user) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2092-find-all-people-with-secret) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
