@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Monotonic Stack
