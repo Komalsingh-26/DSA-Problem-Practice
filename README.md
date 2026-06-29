@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
