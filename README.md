@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
