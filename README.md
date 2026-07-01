@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2402-meeting-rooms-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2092-find-all-people-with-secret) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3454-separate-squares-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3454-separate-squares-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1975-maximum-matrix-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Tree
@@ -457,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
