@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0042-trapping-rain-water) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1470-shuffle-the-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1840-maximum-building-height) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1200-minimum-absolute-difference](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1200-minimum-absolute-difference) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
