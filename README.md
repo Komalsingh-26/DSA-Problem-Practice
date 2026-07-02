@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1975-maximum-matrix-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3379-transformed-array) |
