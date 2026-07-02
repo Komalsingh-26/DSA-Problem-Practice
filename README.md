@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0060-permutation-sequence) |
 ## Simulation
 |  |
 | ------- |
