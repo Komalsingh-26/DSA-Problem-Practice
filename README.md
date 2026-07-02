@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1840-maximum-building-height) |
