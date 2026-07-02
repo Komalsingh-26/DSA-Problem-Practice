@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3379-transformed-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2092-find-all-people-with-secret) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1975-maximum-matrix-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Tree
@@ -443,12 +447,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
