@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0065-valid-number) |
 | [0205-isomorphic-strings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
