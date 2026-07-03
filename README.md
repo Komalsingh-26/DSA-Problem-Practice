@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3606-coupon-code-validator) |
+| [3620-network-recovery-pathways](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3620-network-recovery-pathways](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3620-network-recovery-pathways) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3454-separate-squares-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3454-separate-squares-ii) |
+| [3620-network-recovery-pathways](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
@@ -485,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
