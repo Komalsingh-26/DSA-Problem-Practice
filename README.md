@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0044-wildcard-matching) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Komalsingh-26/DSA-Problem-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
